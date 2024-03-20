@@ -1,4 +1,4 @@
-package com.question.impl;
+package com.question.service.impl;
 
 import com.question.entity.Question;
 import com.question.repository.QuestionRepository;
