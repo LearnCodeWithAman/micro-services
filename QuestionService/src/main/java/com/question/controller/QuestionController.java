@@ -1,7 +1,7 @@
-package com.question.entity.controller;
+package com.question.controller;
 
 import com.question.entity.Question;
-import com.question.entity.service.QuestionService;
+import com.question.service.QuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

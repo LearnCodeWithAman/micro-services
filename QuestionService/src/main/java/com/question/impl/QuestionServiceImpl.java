@@ -1,8 +1,8 @@
-package com.question.entity.impl;
+package com.question.impl;
 
 import com.question.entity.Question;
-import com.question.entity.repository.QuestionRepository;
-import com.question.entity.service.QuestionService;
+import com.question.repository.QuestionRepository;
+import com.question.service.QuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.question.entity.repository;
+package com.question.repository;
 
 import com.question.entity.Question;
 import org.springframework.data.jpa.repository.JpaRepository;
